@@ -33,8 +33,3 @@
 * Day 12 - FAQ collapse
 
 ![FAQ](Day%2012%20-%20FAQ%20collapse/ss.png)
-
-* Day 13 - Choise picker
-
-![Choise](Day%2013%20-%20choise%20picker/ss.png)
-
