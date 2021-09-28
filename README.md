@@ -1,5 +1,6 @@
 # 50days 50projects
 
+50 quick mini projects created using HTML, CSS & JavaScript.
 
 ## Screenshots
 * Day 1 - expanding cards
