@@ -34,3 +34,7 @@
 * Day 12 - FAQ collapse
 
 ![FAQ](Day%2012%20-%20FAQ%20collapse/ss.png)
+
+* Day 17 - Movie layout
+
+![FAQ](Day%2017%20-%20Movie%20layout/ss.png)
