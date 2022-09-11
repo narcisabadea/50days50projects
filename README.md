@@ -42,7 +42,7 @@
 
 - Day 18 - Background slider
 
-![FAQ](/Day%2018%20-%20background%20slider/ss.png)
+![FAQ](/Day%2018%20-%20Background%20slider/ss.png)
 
 - Day 19 - Theme clock
 
