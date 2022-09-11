@@ -46,87 +46,87 @@
 
 - Day 19 - Theme clock
 
-![FAQ](/Day%2019%20-%20theme%20clock/ss.png)
+![FAQ](/Day%2019%20-%20Theme%20clock/ss.png)
 
 - Day 20 - Button ripple effect
 
-![FAQ](/Day%2020%20-%20button%20ripple%20effect/ss.png)
+![FAQ](/Day%2020%20-%20Button%20ripple%20effect/ss.png)
 
 - Day 21 - Drag and drop
 
-![FAQ](/Day%2021%20-%20drag%20and%20drop/ss.png)
+![FAQ](/Day%2021%20-%20Drag%20and%20drop/ss.png)
 
 - Day 22 - Drawing app
 
-![FAQ](/Day%2022%20-%20drawing%20app/ss.png)
+![FAQ](/Day%2022%20-%20Drawing%20app/ss.png)
 
 - Day 23 - Kinetic css loader app
 
-![FAQ](/Day%2023%20-%20kinetic%20css%20loader/ss.png)
+![FAQ](/Day%2023%20-%20Kinetic%20css%20loader/ss.png)
 
 - Day 24 - Content placeholder"
 
-![FAQ](/Day%2024%20-%20content%20placeholder/ss.png)
+![FAQ](/Day%2024%20-%20Content%20placeholder/ss.png)
 
 - Day 25 - Sticky navbar
 
-![FAQ](/Day%2025%20-%20sticky%20navbar/ss.png)
+![FAQ](/Day%2025%20-%20Sticky%20navbar/ss.png)
 
 - Day 26 - Double vertical slider
 
-![FAQ](/Day%2026%20-%20double%20vertical%20slider/ss.png)
+![FAQ](/Day%2026%20-%20Double%20vertical%20slider/ss.png)
 
 - Day 27 - Toast notification
 
-![FAQ](/Day%2027%20-%20toast%20notification/ss.png)
+![FAQ](/Day%2027%20-%20Toast%20notification/ss.png)
 
 - Day 28 - Github profiles
 
-![FAQ](/Day%2028%20-%20github%20profiles/ss.png)
+![FAQ](/Day%2028%20-%20Github%20profiles/ss.png)
 
 - Day 29 - Double heart click
 
-![FAQ](/Day%2029%20-%20double%20heart%20click/ss.png)
+![FAQ](/Day%2029%20-%20Double%20heart%20click/ss.png)
 
 - Day 30 - Auto text effect
 
-![FAQ](/Day%2030%20-%20auto%20text%20effect/ss.png)
+![FAQ](/Day%2030%20-%20Auto%20text%20effect/ss.png)
 
 - Day 31 - Password generator
 
-![FAQ](/Day%2031%20-%20password%20generator/ss.png)
+![FAQ](/Day%2031%20-%20Password%20generator/ss.png)
 
 - Day 32 - Fast checkboxes
 
-![FAQ](/Day%2032%20-%20fast%20checkboxes/ss.png)
+![FAQ](/Day%2032%20-%20Fast%20checkboxes/ss.png)
 
 - Day 33 - Notes app
 
-![FAQ](/Day%2033%20-%20notes%20app/ss.png)
+![FAQ](/Day%2033%20-%20Notes%20app/ss.png)
 
 - Day 34 - Animated countdown
 
-![FAQ](/Day%2034%20-%20animated%20countdown/ss.png)
+![FAQ](/Day%2034%20-%20Animated%20countdown/ss.png)
 
 - Day 35 - Image carousel
 
-![FAQ](/Day%2035%20-%20image%20carousel/ss.png)
+![FAQ](/Day%2035%20-%20Image%20carousel/ss.png)
 
 - Day 36 - Hoverboard
 
-![FAQ](/Day%2036%20-%20hoverboard/ss.png)
+![FAQ](/Day%2036%20-%20Hoverboard/ss.png)
 
 - Day 37 - Pokedex
 
-![FAQ](/Day%2037%20-%20pokedex/ss.png)
+![FAQ](/Day%2037%20-%20Pokedex/ss.png)
 
 - Day 38 - Mobile tab navigation
 
-![FAQ](/Day%2038%20-%20mobile%20tab%20navigation/ss.png)
+![FAQ](/Day%2038%20-%20Mobile%20tab%20navigation/ss.png)
 
 - Day 39 - Password strength
 
-![FAQ](/Day%2039%20-%20password%20strength/ss.png)
+![FAQ](/Day%2039%20-%20Password%20strength/ss.png)
 
 - Day 40 - 3D background boxes
 
