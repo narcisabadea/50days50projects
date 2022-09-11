@@ -134,40 +134,40 @@
 
 - Day 41 - Verify account UI
 
-![FAQ](/Day%2041%20-%20verify%20account%20UI/ss.png)
+![FAQ](/Day%2041%20-%20Verify%20account%20UI/ss.png)
 
 - Day 42 - Live user filter
 
-![FAQ](/Day%2042%20-%20live%20user%20filter/ss.png)
+![FAQ](/Day%2042%20-%20Live%20user%20filter/ss.png)
 
 - Day 43 - Feedback UI design
 
-![FAQ](/Day%2043%20-%20feedback%20UI%20design/ss.png)
+![FAQ](/Day%2043%20-%20Feedback%20UI%20design/ss.png)
 
 - Day 44 - Custom range slider
 
-![FAQ](/Day%2044%20-%20custom%20range%20slider/ss.png)
+![FAQ](/Day%2044%20-%20Custom%20range%20slider/ss.png)
 
 - Day 45 - Netflix navigation
 
-![FAQ](/Day%2045%20-%20netflix%20navigation/ss.png)
+![FAQ](/Day%2045%20-%20Netflix%20navigation/ss.png)
 
 - Day 46 - Quiz app
 
-![FAQ](/Day%2046%20-%20quiz%20app/ss.png)
+![FAQ](/Day%2046%20-%20Quiz%20app/ss.png)
 
 - Day 47 - Testimonial box switcher
 
-![FAQ](/Day%2047%20-%20testimonial%20box%20switcher/ss.png)
+![FAQ](/Day%2047%20-%20Testimonial%20box%20switcher/ss.png)
 
 - Day 48 -Random image feed
 
-![FAQ](/Day%2048%20-%20random%20image%20feed/ss.png)
+![FAQ](/Day%2048%20-%20Random%20image%20feed/ss.png)
 
 - Day 49 - Todo list
 
-![FAQ](/Day%2049%20-%20todo%20list/ss.png)
+![FAQ](/Day%2049%20-%20Todo%20list/ss.png)
 
 - Day 50 - Insect catch game
 
-![FAQ](/Day%2050%20-%20insect20catch%20game/ss.png)
+![FAQ](/Day%2050%20-%20Insect20catch%20game/ss.png)
