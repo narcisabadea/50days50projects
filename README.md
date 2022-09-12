@@ -160,14 +160,6 @@
 
 ![FAQ](/Day%2047%20-%20Testimonial%20box%20switcher/ss.png)
 
-- Day 48 -Random image feed
-
-![FAQ](/Day%2048%20-%20Random%20image%20feed/ss.png)
-
 - Day 49 - Todo list
 
 ![FAQ](/Day%2049%20-%20Todo%20list/ss.png)
-
-- Day 50 - Insect catch game
-
-![FAQ](/Day%2050%20-%20Insect20catch%20game/ss.png)
