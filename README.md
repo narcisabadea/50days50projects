@@ -191,3 +191,7 @@
 - Day 49 - Todo list
 
 ![FAQ](/Day%2049%20-%20Todo%20list/ss.png)
+
+- Day 50 - Insect catch game
+
+![FAQ](/Day%2050%20-%20Insect%20catch%20game/ss.png)
