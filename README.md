@@ -16,6 +16,18 @@
 
 ![Rotating](Day%203%20-%20rotating%20navigation/ss.png)
 
+- Day 4 - hidden search widget
+
+![Rotating](Day%204%20-%20hidden%20search%20widget/ss.png)
+
+- Day 5 - blurry loading
+
+![Rotating](Day%205%20-%20blurry%20loading/ss.png)
+
+- Day 6 - scroll animation
+
+![Rotating](Day%206%20-%20scroll%20animation/ss.png)
+
 - Day 7 - Split landing page
 
 ![Split](Day%207%20-%20split%20landing%20page/ss.png)
@@ -35,6 +47,22 @@
 - Day 12 - FAQ collapse
 
 ![FAQ](Day%2012%20-%20FAQ%20collapse/ss.png)
+
+- Day 13 - Choise picker
+
+![FAQ](Day%2013%20-%20Choice%20picker/ss.png)
+
+- Day 14 - Animated navigation
+
+![FAQ](Day%2014%20-%20Animated%20navigation/ss.png)
+
+- Day 15 - Increment counter
+
+![FAQ](Day%2015%20-%20Increment%20counter/ss.png)
+
+- Day 16 - Drink water
+
+![FAQ](Day%2016%20-%20Drink%20water/ss.png)
 
 - Day 17 - Movie layout
 
