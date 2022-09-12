@@ -50,7 +50,7 @@
 
 - Day 13 - Choise picker
 
-![FAQ](Day%2013%20-%20Choice%20picker/ss.png)
+![FAQ](Day%2013%20-%20Choise%20picker/ss.png)
 
 - Day 14 - Animated navigation
 
