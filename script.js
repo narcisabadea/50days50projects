@@ -197,7 +197,7 @@ const projects = [
     name: "Todo list",
   },
   {
-    url: "/Day%2050%20-%20insect20catch%20game/",
+    url: "/Day%2050%20-%20insect%20catch%20game/",
     name: "Insect catch game",
   },
 ];
